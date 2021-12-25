@@ -1,0 +1,7 @@
+C:\Study\4 семестр\ООП\dz\dz\dz\bin\Debug\dz.exe.config
+C:\Study\4 семестр\ООП\dz\dz\dz\bin\Debug\dz.exe
+C:\Study\4 семестр\ООП\dz\dz\dz\bin\Debug\dz.pdb
+C:\Study\4 семестр\ООП\dz\dz\dz\obj\Debug\dz.csprojAssemblyReference.cache
+C:\Study\4 семестр\ООП\dz\dz\dz\obj\Debug\dz.csproj.CoreCompileInputs.cache
+C:\Study\4 семестр\ООП\dz\dz\dz\obj\Debug\dz.exe
+C:\Study\4 семестр\ООП\dz\dz\dz\obj\Debug\dz.pdb

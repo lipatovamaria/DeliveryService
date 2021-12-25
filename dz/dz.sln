@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dz", "dz\dz.csproj", "{FD54E9FF-E3BC-4C84-B053-EAE00B46C8D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{02CCAFC7-1910-43A2-A2DB-D40F554B9077}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD54E9FF-E3BC-4C84-B053-EAE00B46C8D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD54E9FF-E3BC-4C84-B053-EAE00B46C8D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD54E9FF-E3BC-4C84-B053-EAE00B46C8D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD54E9FF-E3BC-4C84-B053-EAE00B46C8D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02CCAFC7-1910-43A2-A2DB-D40F554B9077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02CCAFC7-1910-43A2-A2DB-D40F554B9077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02CCAFC7-1910-43A2-A2DB-D40F554B9077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02CCAFC7-1910-43A2-A2DB-D40F554B9077}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE1C5669-EDA2-4070-BE98-D89096115116}
+	EndGlobalSection
+EndGlobal
